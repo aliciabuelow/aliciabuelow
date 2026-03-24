@@ -30,6 +30,7 @@ After completing the **SheCodes Full-Stack Developer Bootcamp**, I’m continuin
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge\&logo=render)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
 
 ### Design & UX
@@ -44,20 +45,23 @@ After completing the **SheCodes Full-Stack Developer Bootcamp**, I’m continuin
 
 ## 💻 Featured Projects
 
-### 📚 Dictionary App
+### ✈️ Travel Itinerary Builder
 
-React application that retrieves and displays linguistic data using external APIs.
+A full-stack travel planner that uses AI to generate realistic, season-aware itineraries tailored to the user’s destination, budget, travel style, and interests.
 
-**Tech:** React • JavaScript • HTML • CSS • Bootstrap • REST APIs
+**Tech:** React • JavaScript • Node.js • Express • OpenAI API • CSS • Vite
 
 **Key Features**
 
-* Built with **component-based architecture**
-* Integrated multiple APIs for definitions, phonetics, and imagery
-* Deployed with **Vercel** and version controlled with **Git/GitHub**
+* Generates personalized multi-day travel itineraries using AI based on user-inputted destination, budget, travel style, group type, and interests
+* Produces structured, easy-to-read daily plans with themed titles, time-of-day breakdowns, cost estimates, and practical tips
+* Dynamically adapts recommendations based on travel timing
+* Clean, responsive UI with interactive form inputs and loading states
+* Full-stack architecture with a React frontend and Express backend handling API requests
+* Designed and implemented structured AI prompting to ensure consistent, parseable itinerary output
 
-🔗 Live Demo: https://react-dictionary-omega.vercel.app/
-🔗 Repository: https://github.com/aliciabuelow/react-dictionary
+🔗 Live Demo: https://ai-travel-app-mauve.vercel.app/
+🔗 Repository: https://github.com/aliciabuelow/AI-travel-app
 
 ---
 
