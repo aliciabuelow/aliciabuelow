@@ -118,8 +118,6 @@ I’m actively developing projects to deepen my full-stack skills.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliciabuelow\&show_icons=true\&theme=transparent)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciabuelow\&layout=compact\&theme=transparent)
 
 ---
