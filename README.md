@@ -116,12 +116,6 @@ I’m actively developing projects to deepen my full-stack skills.
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciabuelow\&layout=compact\&theme=transparent)
-
----
-
 ## 🌍 Professional Background
 
 **Founder — Molly & Milly (2020–2025)**
