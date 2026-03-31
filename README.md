@@ -15,31 +15,32 @@ After completing the **SheCodes Full-Stack Developer Bootcamp**, I’m continuin
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Render](https://img.shields.io/badge/Render-black?style=for-the-badge\&logo=render)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
-### Design & UX
+### Design
 
-* Figma
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 * Adobe Photoshop
 * Adobe Illustrator
-* Responsive Design
-* UI/UX Principles
 
 ---
 
