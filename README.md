@@ -81,20 +81,23 @@ Custom Shopify storefront built to sell original artwork and digital products.
 
 ---
 
-### 🎵 Responsive Artist Landing Page
+### 🎵 Personal Portfolio Website
 
-Responsive site built from a **Figma design mockup**.
+A React-based portfolio designed in Figma and built with a focus on bold visual design and clean UI. Deployed with a custom domain, SEO optimization, and analytics tracking.
 
-**Tech:** HTML • CSS • Bootstrap • Responsive Design
+**Tech:** React (Vite) • JavaScript • Bootstrap • CSS3 • Motion • Vercel
 
 **Key Features**
 
-* Translated design specifications into semantic HTML and modern CSS
-* Implemented layouts using **Flexbox, CSS Grid, and media queries**
-* Embedded multimedia content including video players
+* Fully responsive design (media queries & clamp())
+* Scroll-triggered animations (Motion and useInView)
+* Interactive hover effects and typewriter welcome element
+* SEO-ready structure with Open Graph support
+* Google Analytics integration
+* Custom domain setup with DNS and SSL
 
-🔗 Live Demo: https://jid-webpage.vercel.app/
-🔗 Repository: https://github.com/aliciabuelow/jid-webpage
+🔗 Live Demo: https://aliciabuelow.dev
+🔗 Repository: https://github.com/aliciabuelow/alicia-portfolio
 
 ---
 
@@ -113,7 +116,6 @@ I’m actively developing projects to deepen my full-stack skills.
 
 * React **Project Tracker (CRUD app)**
 * **Dashboard app** with charts and API integrations
-* Upgraded **AI Trip Planner**
 
 ---
 
@@ -131,7 +133,7 @@ These experiences strengthened skills that now inform my development work: **pro
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://www.aliciabuelow.com.au
+🌐 Portfolio: https://aliciabuelow.dev
 💼 GitHub: https://github.com/aliciabuelow
 📧 Email: [alicia@buelow.com.au](mailto:alicia@buelow.com.au)
 
