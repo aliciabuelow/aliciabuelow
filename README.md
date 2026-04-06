@@ -103,7 +103,7 @@ A React-based portfolio designed in Figma and built with a focus on bold visual 
 
 ## 📈 Current Learning & Projects
 
-I'm currently focused on building & improving my portfolio projects, and undertaking Codecademy courses to improve my React, JavaScript, and design skills.
+I'm currently focused on building & improving my portfolio projects, and continuous learning to improve my React, JavaScript, and design skills.
 
 **Currently learning**
 
