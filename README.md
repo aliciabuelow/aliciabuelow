@@ -110,6 +110,7 @@ I'm currently focused on building & improving my portfolio projects, and continu
 * Building **React CRUD applications**
 * Creating **interactive dashboards with APIs**
 * Expanding my **GitHub, portfolio, and documentation**
+* Regular further learning of **React and Javascript** through courses
 
 **Upcoming projects**
 
