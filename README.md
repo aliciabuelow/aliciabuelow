@@ -108,9 +108,9 @@ I'm currently focused on building & improving my portfolio projects, and continu
 **Currently learning**
 
 * Building **React CRUD applications**
-* Creating **interactive dashboards with APIs**
+* Cleaning and updating **past projects**
 * Expanding my **GitHub, portfolio, and documentation**
-* Regular further learning of **React and Javascript** through courses
+* Regular further learning of **React and Javascript** through Codecademy courses
 
 **Upcoming projects**
 
