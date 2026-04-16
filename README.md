@@ -89,7 +89,7 @@ A React-based portfolio designed in Figma and built with a focus on bold visual 
 
 **Key Features**
 
-* Fully responsive design (media queries & clamp())
+* Fully responsive design (media queries, flexbox)
 * Scroll-triggered animations (Motion and useInView)
 * Interactive hover effects and typewriter welcome element
 * SEO-ready structure with Open Graph support
