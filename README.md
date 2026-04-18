@@ -81,7 +81,7 @@ Custom Shopify storefront built to sell original artwork and digital products.
 
 ---
 
-### 🎵 Personal Portfolio Website
+### 👩🏼‍💻 Personal Portfolio Website
 
 A React-based portfolio designed in Figma and built with a focus on bold visual design and clean UI. Deployed with a custom domain, SEO optimization, and analytics tracking.
 
@@ -107,12 +107,13 @@ I'm currently focused on building & improving my portfolio projects, and continu
 
 **Currently learning**
 
-* Building **React CRUD applications**
-* Cleaning and updating **past projects**
-* Expanding my **GitHub, portfolio, and documentation**
-* Regular further learning of **React and Javascript** through Codecademy courses
+* Building **React CRUD application**
+* Cleaning and updating **past/unfinished projects**
+* Expanding my **GitHub, portfolio, resume, and documentation**
+* Regular further learning of **React, Javascript, and general Web Development** through Codecademy courses
+* Exploring and planning for **collaborations and hackathons**
 
-**Upcoming projects**
+**Upcoming Projects**
 
 * React **Project Tracker (CRUD app)**
 
