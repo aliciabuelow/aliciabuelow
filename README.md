@@ -66,6 +66,26 @@ A full-stack travel planner that uses AI to generate realistic, season-aware iti
 
 ---
 
+### 🗃️ Project Tracker (React App)
+
+A lightweight project management app for organizing projects and tasks, built to strengthen understanding of React state, data flow, and CRUD operations.
+
+**Tech:** React • JavaScript • CSS • LocalStorage
+
+**Key Features**
+
+* Create and manage multiple projects, each containing its own task list
+* Full CRUD functionality for tasks, including inline editing and completion toggling
+* Uses map and filter to update nested state immutably
+* State managed at the top level and passed through components via props
+* Persists data using localStorage to maintain state across sessions
+* Clean, responsive UI focused on clarity and usability
+
+🔗 Live Demo: https://alicia-buelow-project-tracker.vercel.app/
+🔗 Repository: https://github.com/aliciabuelow/Project-Tracker-App
+
+---
+
 ### 🎨 Molly & Milly – Shopify E-Commerce Store
 
 Custom Shopify storefront built to sell original artwork and digital products.
