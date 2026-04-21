@@ -99,7 +99,8 @@ Custom Shopify storefront built to sell original artwork and digital products.
 * Integrated **print-on-demand services** for automated fulfillment
 * Processed **150+ customer orders**
 
-<img width="2201" height="1386" alt="project-tracker-preview" src="https://github.com/user-attachments/assets/5e99fe34-1e51-4097-91ab-6d99108d604a" />
+<img width="396" height="220" alt="mollymilly-preview" src="https://github.com/user-attachments/assets/620d4a0b-ee87-4861-8884-d405db7cae7d" />
+
 
 
 ---
