@@ -127,18 +127,18 @@ A React-based portfolio designed in Figma and built with a focus on bold visual 
 
 ## 📈 Current Learning & Projects
 
-I'm currently focused on building & improving my portfolio projects, and continuous learning to improve my React and JavaScript skills.
+I'm currently focused on refining my portfolio projects and strengthening my React and JavaScript fundamentals through continued hands-on learning.
 
-**Currently learning**
+**Currently working on**
 
-* Building **React CRUD application**
-* Expanding my **GitHub, portfolio, resume, and documentation**
-* Regular further learning of **React, Javascript, and Web Development**
-* Exploring and planning for **collaborations and hackathons**
+* Finalizing and polishing my **Project Tracker (React CRUD app)** and integrating it across my portfolio, resume, and GitHub
+* Continued, structured learning in **React and modern JavaScript**, reinforcing concepts through small exercises and real project updates
+* Improving code quality, UI/UX details, and overall project presentation
 
-**Upcoming Projects**
+**Next steps**
 
-* React **Project Tracker (CRUD app)**
+* Preparing for networking and technical conversations, focusing on clearly explaining my projects and development process
+* Exploring opportunities for **collaboration, open-source contributions, and hackathons**
 
 ---
 
