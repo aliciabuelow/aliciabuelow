@@ -160,4 +160,4 @@ These experiences strengthened skills that now inform my development work: **pro
 💼 GitHub: https://github.com/aliciabuelow
 📧 Email: [alicia@buelow.com.au](mailto:alicia@buelow.com.au)
 
-I'm currently seeking **junior front-end or junior web developer opportunities** where I can continue learning while contributing to meaningful projects.
+I'm open to junior front-end or web developer opportunities where I can keep growing while contributing to thoughtful, user-focused projects.
