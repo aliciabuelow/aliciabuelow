@@ -127,18 +127,22 @@ A React-based portfolio designed in Figma and built with a focus on bold visual 
 
 ## 📈 Current Learning & Projects
 
-I'm currently focused on building thoughtful, polished front-end projects while deepening my React, JavaScript, and UI/UX skills.
+I'm currently focused on building thoughtful, polished front-end projects while deepening my React, JavaScript, and UI/UX skills through hands-on work.
+
+**Recently launched**
+
+ - **Work-Friendly Perth**: A React app that helps users find public work-friendly spaces around Perth through curated local data, search, clickable tags, and clear information display
 
 **Currently working on**
 
-* Building **Work-Friendly Perth**, a React app that helps users find public work-friendly spaces around Perth through curated data, search, and clear information display
-* Continuing structured learning in React and modern JavaScript, with a focus on data flow, component structure, array methods, and practical app logic
+* Continued structured learning in React and modern JavaScript, with an emphasis on data flow, component structure, array methods, responsive design, and practical app logic
+* Preparing for a paid client website project involving multiple business websites, with a focus on discovery, scoping, content structure, and maintainable design decisions
 
 **Next steps**
 
-* Completing and deploying **Work-Friendly Perth** as my next portfolio project
-* Preparing to take on a paid client project consisting of multiple websites
-* Continuing to build confidence in technical and networking conversations
+* Reviewing feedback on Work-Friendly Perth and considering a focused coverage expansion for v1.1
+* Beginning discovery for the client website project
+* Continuing to build confidence explaining my projects, development decisions, and learning process in technical/networking conversations
 
 ---
 
