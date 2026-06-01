@@ -135,14 +135,14 @@ I'm currently focused on building thoughtful, polished front-end projects while 
 
 **Currently working on**
 
-* Continued structured learning in React and modern JavaScript, with an emphasis on data flow, component structure, array methods, responsive design, and practical app logic
-* Preparing for a paid client website project involving multiple business websites, with a focus on discovery, scoping, content structure, and maintainable design decisions
+* Planning and scoping a paid client project for an engineering business, including discovery, content structure, maintainability, and build strategy for two related but distinct business websites
+* Continuing structured learning in React and modern JavaScript, with an emphasis on data flow, component structure, array methods, responsive design, and practical app logic
 
 **Next steps**
 
+* Turning client discovery notes into clearer project briefs, content plans, and site structure decisions
 * Reviewing feedback on Work-Friendly Perth and considering a focused coverage expansion for v1.1
-* Beginning discovery for the client website project
-* Continuing to build confidence explaining my projects, development decisions, and learning process in technical/networking conversations
+* Continuing to build confidence explaining my projects, developmental decisions, and learning process in technical and professional conversations
 
 ---
 
