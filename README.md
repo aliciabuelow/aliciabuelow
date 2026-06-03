@@ -5,7 +5,7 @@
 
 I’m a developer with a background in **art, design, and e-commerce**, now focused on building modern web applications using **JavaScript and React**.
 
-Before transitioning into development, I founded and ran an online Shopify store where I designed and managed a full e-commerce platform. That experience sparked my interest in **web development, UI/UX design, and building intuitive digital experiences**.
+Before transitioning into development, I founded and ran an online Shopify store where I designed and managed a full e-commerce platform. That experience motivated me to pursue **web development, UI/UX design, and building intuitive digital experiences**.
 
 After completing the **SheCodes Full-Stack Developer Bootcamp**, I’m continuing to expand my skills through real projects while working toward my first **junior developer role**.
 
