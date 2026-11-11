@@ -7,7 +7,9 @@ I’m a developer with a background in **art, design, and e-commerce**, now focu
 
 Before transitioning into development, I founded and ran an online Shopify store where I designed and managed a full e-commerce platform. That experience motivated me to pursue **web development, UI/UX design, and building intuitive digital experiences**.
 
-After completing the **SheCodes Full-Stack Developer Bootcamp**, I’m continuing to expand my skills through real projects while working toward my first **junior developer role**.
+After completing the **SheCodes Full-Stack Developer Bootcamp**, I’ve continued developing my skills through personal projects and paid freelance work, currently building two custom business websites using React and JavaScript.
+
+I'm now looking toward my first team-based role in tech in early 2027, with a focus on frontend development and an openness to opportunities across development and UI/UX.
 
 ---
 
@@ -127,31 +129,35 @@ A React-based portfolio designed in Figma and built with a focus on bold visual 
 
 ## 📈 Current Learning & Projects
 
-I'm currently focused on building thoughtful, polished front-end projects while deepening my React, JavaScript, and UI/UX skills through hands-on work.
-
-**Recently launched**
-
- - **Work-Friendly Perth**: A React app that helps users find public work-friendly spaces around Perth through curated local data, search, clickable tags, and clear information display
+## 📈 Current Work & Development
 
 **Currently working on**
 
-* Planning and scoping a paid client project for an engineering business, including discovery, content structure, maintainability, and build strategy for two related but distinct business websites
-* Continuing structured learning in React and modern JavaScript, with an emphasis on data flow, component structure, array methods, responsive design, and practical app logic
+- **Freelance Web Development - HSE System Solutions & EnviroEMD:** Designing and building two custom engineering business websites from scratch using React, JavaScript, Vite, and CSS. Responsible for frontend development, UI design, responsive layouts, client communication, and project planning.
+- Continuing to deepen my frontend skills through practical development, including component architecture, responsive design, and interactive UI.
 
-**Next steps**
+**Recent projects**
 
-* Turning client discovery notes into clearer project briefs, content plans, and site structure decisions
-* Reviewing feedback on Work-Friendly Perth and considering a focused coverage expansion for v1.1
-* Continuing to build confidence explaining my projects, developmental decisions, and learning process in technical and professional conversations
+- **Work-Friendly Perth:** A React app helping users discover public work-friendly spaces around Perth through curated local data, search, and interactive filtering.
+- **Moodboard Mini & Client Website Content Organizer:** Smaller React practice projects exploring component design, state management, filtering, and UI development.
+
+**Looking ahead**
+
+- Completing and launching the two client websites.
+- Continuing to expand my frontend development skills through practical projects.
+- Exploring junior developer and other entry-level tech opportunities in Perth for early 2027.
 
 ---
 
 ## 🌍 Professional Background
 
-**Founder — Molly & Milly (2020–2025)**
+**Freelance Web Developer - HSE System Solutions & EnviroEMD (2026–Present)**  
+Designing and developing two custom engineering business websites using React, JavaScript, Vite, and CSS. Managing frontend development, UI design, client communication, and project planning independently.
+
+**Founder - Molly & Milly (2020–2025)**
 Designed and managed an online art business and Shopify storefront, handling digital design, product creation, website customization, and customer experience.
 
-**Credit Specialist — TD Bank (2016–2018)**
+**Credit Specialist - TD Bank (2016–2018)**
 Analyzed financial data, advised clients on credit products, and translated complex financial information into clear solutions.
 
 These experiences strengthened skills that now inform my development work: **problem solving, design thinking, and user-focused solutions.**
@@ -164,4 +170,4 @@ These experiences strengthened skills that now inform my development work: **pro
 💼 GitHub: https://github.com/aliciabuelow
 📧 Email: [alicia@buelow.com.au](mailto:alicia@buelow.com.au)
 
-I'm open to junior front-end or web developer opportunities where I can keep growing while contributing to thoughtful, user-focused projects.
+I'm actively exploring entry level opportunities in Perth for early 2027, particularly in frontend development, but also across UI/UX and broader development. I hope to join a collaborative team where I can contribute and grow.
